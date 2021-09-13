@@ -77,3 +77,5 @@ I'm going to let the data speak for itself:
 **THIS MEANS** that you could literally just say *"I'm switching my door"* and choose the same door and you'd have a 17% higher chance of winning than just saying "I'm keeping my choice". What the frick.
 
 I understand that that isn't exactly what that means, but the problem never ceases to mystify me.
+
+(EDIT: Here's a quick note to mention, and that's that my NEW 'SWitching' method actually just mixes switching and staying, and the average between 33.3% and 66.6% is about 50%, so I didn't prove anything by saying you could choose the same door and get a +17% chance of winning. Thanks Ray for explaining this to me!)
